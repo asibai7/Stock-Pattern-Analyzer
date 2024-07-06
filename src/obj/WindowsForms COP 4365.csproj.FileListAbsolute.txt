@@ -1,0 +1,20 @@
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.exe.config
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.exe
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.pdb
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms_COP_4365.Form_Stock.resources
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms_COP_4365.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.exe
+C:\Users\Ahmad\Desktop\WindowsForms COP 4365\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.pdb
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.exe.config
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.exe
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\bin\Debug\WindowsForms COP 4365.pdb
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms_COP_4365.Form_Stock.resources
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms_COP_4365.Properties.Resources.resources
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.GenerateResource.cache
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.exe
+C:\Users\Ahmad\Desktop\Spring 2024\Software\WindowsForms COP 4365 - Project 2\WindowsForms COP 4365\obj\Debug\WindowsForms COP 4365.pdb
